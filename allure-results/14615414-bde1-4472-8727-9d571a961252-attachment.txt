@@ -1,0 +1,37 @@
+all dropdown valueSelect StateAndhra PradeshArunachal PradeshAssamBiharChhattisgarhGoaGujaratHaryanaHimachal PradeshJammu and KashmirJharkhandKarnatakaKeralaMadhya PradeshMaharashtraManipurMeghalayaMizoramNagalandOdishaPunjabRajasthanSikkimTamil NaduTelanganaTripuraUttarakhandUttar PradeshWest BengalAndaman and Nicobar IslandsChandigarhDadra and Nagar HaveliDaman and DiuDelhiLakshadweepPuducherry
+value from dropdown list using for loop Select State
+value from dropdown list using for loop Andhra Pradesh
+value from dropdown list using for loop Arunachal Pradesh
+value from dropdown list using for loop Assam
+value from dropdown list using for loop Bihar
+value from dropdown list using for loop Chhattisgarh
+value from dropdown list using for loop Goa
+value from dropdown list using for loop Gujarat
+value from dropdown list using for loop Haryana
+value from dropdown list using for loop Himachal Pradesh
+value from dropdown list using for loop Jammu and Kashmir
+value from dropdown list using for loop Jharkhand
+value from dropdown list using for loop Karnataka
+value from dropdown list using for loop Kerala
+value from dropdown list using for loop Madhya Pradesh
+value from dropdown list using for loop Maharashtra
+value from dropdown list using for loop Manipur
+value from dropdown list using for loop Meghalaya
+value from dropdown list using for loop Mizoram
+value from dropdown list using for loop Nagaland
+value from dropdown list using for loop Odisha
+value from dropdown list using for loop Punjab
+value from dropdown list using for loop Rajasthan
+value from dropdown list using for loop Sikkim
+value from dropdown list using for loop Tamil Nadu
+value from dropdown list using for loop Telangana
+value from dropdown list using for loop Tripura
+value from dropdown list using for loop Uttarakhand
+value from dropdown list using for loop Uttar Pradesh
+value from dropdown list using for loop West Bengal
+value from dropdown list using for loop Andaman and Nicobar Islands
+value from dropdown list using for loop Chandigarh
+value from dropdown list using for loop Dadra and Nagar Haveli
+value from dropdown list using for loop Daman and Diu
+value from dropdown list using for loop Delhi
+value from dropdown list using for loop Lakshadweep

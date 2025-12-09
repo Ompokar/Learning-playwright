@@ -1,0 +1,15 @@
+{
+    "username":"pokarom203@gmail.com",
+    "password":"Om_pokar@01",
+    "name":"om pokar",
+    "interest":["Cypress","Java","API"],
+    "address":{
+                "area":"naroda",
+                "city":"ahemedabad",
+                "picode":"382345",
+                "State":"Gujarat"
+            }
+    
+
+
+}
