@@ -20,7 +20,7 @@ test("test data login",async function({page})
 
     await page.locator("//input[@id='password']").fill(testdata.password);
 
-    await page.getByRole('checkbox', { name: 'Java' }).check();
+    await page.getByRole('checkbox', { name: 'TestNG' }).check();
 
     await page.getByRole('checkbox', { name: 'Cypress' }).check();
 
