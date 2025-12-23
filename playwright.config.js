@@ -48,7 +48,7 @@ export default defineConfig({
         trace:"off"
       },
     },
-/*
+
     {
       name: 'Firefox',
       use: { ...devices['Desktop Firefox'],
